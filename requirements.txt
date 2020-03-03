@@ -1,3 +1,14 @@
+# [ Mandatory ]
 setuptools
 jupyter
 ipywidgets
+
+# [ Custom ]
+#scipy
+#scikit-learn
+#numpy
+#pandas
+#tensorflow
+#matplotlib
+#seaborn
+#opencv-python
